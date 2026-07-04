@@ -18,7 +18,7 @@ Two DCF methods were used with the same Cost of Equity **(14.23%)** for a fair c
 - ✅ Sensitivity Analysis
 - ✅ Comparable Company Analysis (ICICI Bank, Kotak Mahindra Bank, Axis Bank)
 - ✅ Investment Memo (HOLD recommendation)
-- 
+  
 ## Key Assumptions
 - **Risk-Free Rate:** 6.85% (India 10Y G-Sec)
 - **Beta:** 1.23 (Moneycontrol)
